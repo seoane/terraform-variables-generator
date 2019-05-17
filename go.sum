@@ -1,3 +1,5 @@
+github.com/alexandrst88/terraform-variables-generator v0.0.0-20190403085457-781fb35aaec2 h1:KYcjQlTjORce+qr4JoyHoSjGO500IfLk+wxy0UJvWxM=
+github.com/alexandrst88/terraform-variables-generator v0.0.0-20190403085457-781fb35aaec2/go.mod h1:BKCNlaRQ48KNrFk4vq+0xznCq6WxAGQV2n20YVIozKk=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=

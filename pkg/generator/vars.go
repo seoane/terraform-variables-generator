@@ -9,7 +9,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/alexandrst88/terraform-variables-generator/pkg/utils"
+	"github.com/seoane/terraform-inputs-generator/pkg/utils"
 )
 
 var replacer *strings.Replacer

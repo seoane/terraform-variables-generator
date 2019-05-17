@@ -8,8 +8,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/alexandrst88/terraform-variables-generator/pkg/generator"
-	"github.com/alexandrst88/terraform-variables-generator/pkg/utils"
+	"github.com/seoane/terraform-inputs-generator/pkg/generator"
+	"github.com/seoane/terraform-inputs-generator/pkg/utils"
 )
 
 const (
@@ -29,8 +29,8 @@ func Execute(version string) {
 
 	cmd := &cobra.Command{
 		Use:     "generator",
-		Short:   "CLI for generating terraform variables",
-		Example: "  terraform-variable-generator",
+		Short:   "CLI for generating terraform variables, inputs, data and outputs",
+		Example: "  terraform-inputs-generator",
 		Version: generatorVersion,
 		Run:     runGenerator,
 	}

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/alexandrst88/terraform-variables-generator/cmd"
+import "github.com/seoane/terraform-inputs-generator/cmd"
 
 // Version is updated by linker flags during build time
 var Version = "dev"
